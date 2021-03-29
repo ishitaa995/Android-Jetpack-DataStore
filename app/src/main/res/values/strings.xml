@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">jetPackDataStore</string>
+    <string name="datastore_data">Enter data to be stored</string>
+    <string name="save">save</string>
+    <string name="current_stored_data">Current Stored Data</string>
+    <string name="datastore_demo">Datastore Demo</string>
+</resources>
